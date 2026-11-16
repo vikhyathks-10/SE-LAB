@@ -1,0 +1,17 @@
+# Python temporary files
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Testing cache
+.pytest_cache/
+.hypothesis/
+.coverage
+htmlcov/
+
+# Environment files
+.env
+
+# Original Lab 6 and 7 source folder
+L6_L7_25_train_fare/
